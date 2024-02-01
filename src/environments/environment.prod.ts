@@ -1,3 +1,3 @@
-export const environment = {
-  production: true
+export const environments = {
+  baseUrl: 'http://andres-duran.com/api'
 };
